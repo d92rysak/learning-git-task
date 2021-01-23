@@ -12,3 +12,4 @@ for sklep in shopping_dict:
     items_quantity=items_quantity+len(shopping_dict[sklep])
 print(f"W sumie kupuję {items_quantity} produktów")
 print("robię pierwszy commit")
+print("robię drugi commit")
