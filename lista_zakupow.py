@@ -13,3 +13,4 @@ for sklep in shopping_dict:
 print(f"W sumie kupuję {items_quantity} produktów")
 print("robię pierwszy commit")
 print("robię drugi commit")
+print("Pozdrawiam i życzę smacznej kawusi")
